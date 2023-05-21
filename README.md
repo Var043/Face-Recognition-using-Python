@@ -1,5 +1,6 @@
 
-Attendance Recording System in Python
+*******Attendance Recording System in Python**********
+
 This repository contains a Python-based attendance recording system that utilizes employee data, photos, audios, and an attendance log file.
 
 
